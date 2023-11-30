@@ -1,0 +1,46 @@
+body {
+    color: green;
+    font-family: verdana;
+    font-weight: normal;
+    background: #ffcf79;
+}
+
+h1, h2{
+    text-decoration: underline;
+}
+
+.para1{
+    color: blue;
+}
+
+/* .para2{
+    color: green;
+} */
+
+.paragraph{
+    color: brown; 
+    line-height: 1.5em;
+    background-color: #e5e4de;
+    padding: 20px;
+    border: black 2px solid;
+    margin: 15px;
+    background-image: url(https://live.staticflickr.com/5067/5584892057_fc4c794615_z.jpg);
+}
+
+.para4{
+    color: black; 
+    line-height: 1.5em;
+    background-color: #e5e4de;
+    padding: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin: 0;
+    padding-left: 40px;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
